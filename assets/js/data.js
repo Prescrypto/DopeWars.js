@@ -32,7 +32,7 @@ var DataCenter = {
             }
         },
         {
-            "name": "Alta Especialidad",
+            "name": "heroin",
             "minimum_price": 5500,
             "maximum_price": 13000,
             "expensive": {
@@ -41,7 +41,7 @@ var DataCenter = {
             }
         },
         {
-            "name": "Atención Primaria",
+            "name": "glue",
             "minimum_price": 11,
             "maximum_price": 75,
             "cheap": {
@@ -94,33 +94,33 @@ var DataCenter = {
     ],
     cities: [
         {
-            "name": "Ciudad de México",
+            "name": "laval",
             "cops": 10,
             "min_drugs": 5,
             "max_drugs": 10
         },
         {
-            "name": "Guadalajara",
+            "name": "mont-royal",
             "cops": 5,
             "min_drugs": 7
         },
         {
-            "name": "Sao Paolo",
+            "name": "lafontaine-park",
             "cops": 15,
             "min_drugs": 6
         },
         {
-            "name": "Bogota",
+            "name": "berry-uqam-metro",
             "cops": 80,
             "min_drugs": 4
         },
         {
-            "name": "Santiago de Chile",
+            "name": "sainte-helene-island",
             "cops": 30,
             "min_drugs": 6
         },
         {
-            "name": "Buenos Aires",
+            "name": "vieux-port",
             "cops": 70,
             "min_drugs": 4,
             "max_drugs": 10
