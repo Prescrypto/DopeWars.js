@@ -1,19 +1,23 @@
-DopeWars.js
+PrescryptoWars.js
 ===========
 
-A drug-dealing game set in streets of Montreal City.
+A pharma-dealing game set in latam during 2021.
 
 ## About
 
-DopeWars.js was written by Nicolas Hurtubise. This game was inspired by the UNIX rewrite of the MS-DOS program Dope Wars, which in turn was inspired by John E. Dell's "Drug Wars" game. Yup, that game has a long history. Though it's probably the first one to implement drug-consuming.
+This game was inspired by the UNIX rewrite of the MS-DOS program Dope Wars, which in turn was inspired by John E. Dell's "Drug Wars" game. Yup, that game has a long history. Though it's probably the first one to implement drug-consuming.
 
 ## License
 
 This game is licensed under the MIT license.
 
-## Contributors
+## Credit
 
-* Nicolas Hurtubise *(Main developer)*
-* djura-san *(Serbian (latin and cyrillic) translation)*
+PrescryptoWars.js was forked from DrugWars.js by Nicolas Hurtubise. 
 
-To contribute on this project, just fork [this repository](https://github.com/316k/DopeWars.js/) and send me a pull request.
+* disusered
+* ebarojas
+* Nicolas Hurtubise
+* djura-san
+
+To contribute on this project, just fork [this repository](https://github.com/Prescrypto/PrescryptoWars.js/) and send a pull request.
